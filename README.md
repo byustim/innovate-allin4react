@@ -7,3 +7,4 @@ It showcases how to easily connect a React web app to a GraphQL endpoint powered
 ## Watch the recorded stream
 
 You can view a recording of the live stream at https://www.twitch.tv/videos/286397585
+Second session recording at https://www.twitch.tv/videos/286498569
